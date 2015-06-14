@@ -1,0 +1,22 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F1330 -DL -O11111114 -fo8 -N"D:\Google Drive\Skyward Experimental Rocketry\Rocksanne I-X\ELS - Electronic Systems\Team\Phase B\Embedded System\Elettronica per Recovery\VERSIONE 1.1\Firmware\Recovery_PWM.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\Google Drive\Skyward Experimental Rocketry\Rocksanne I-X\ELS - Electronic Systems\Team\Phase B\Embedded System\Elettronica per Recovery\VERSIONE 1.1\Firmware\" -SP"D:\Dropbox\Skyward\Recovery\Firmware\" -SP"\\vmware-host\Shared Folders\daviderossi sul mio Mac\Dropbox\Skyward\Recovery\Firmware\" -SP"C:\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Davide\Dropbox\Skyward\Recovery\Firmware\" -SP"C:\Users\Davide\Desktop\Skyward\Recovery\Firmware\" -SP"C:\Programmi\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Programmi\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"Z:\daviderossi sul mio Mac\Dropbox\Skyward\Recovery\Firmware\" -SP"Z:\daviderossi sul mio Mac\Dropbox\Skyward\Firmware\" "Recovery_PWM.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_MemManager.mcl" "__Lib_Conversions.mcl" "__Lib_Sprintf.mcl" "__Lib_PrintOut.mcl" "__Lib_Sprinti.mcl" "__Lib_Sprintl.mcl" "__Lib_Time.mcl" "__Lib_Trigonometry.mcl" "__Lib_Button.mcl" "__Lib_Keypad4x4.mcl" "__Lib_Manchester.mcl" "__Lib_OneWire.mcl" "__Lib_PS2.mcl" "__Lib_Sound.mcl" "__Lib_SoftI2C.mcl" "__Lib_SoftSPI.mcl" "__Lib_SoftUART.mcl" "__Lib_ADC_A_D.mcl" "__Lib_EEPROM_256.mcl" "__Lib_FLASH_w8_e64.mcl" "__Lib_UART_a23.mcl" "__Lib_CF.mcl" "__Lib_CFFat16.mcl" "__Lib_GlcdFonts.mcl" "__Lib_Glcd.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl" "__Lib_RS485.mcl" "__Lib_S1D13700.mcl" "__Lib_T6963C.mcl" "__Lib_TouchPanel.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'D:\Dropbox\Skyward\Recovery\Firmware'	 
+warning: 0	1501	Specified search path does not exist: '\\vmware-host\Shared Folders\daviderossi sul mio Mac\Dropbox\Skyward\Recovery\Firmware'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Mikroelektronika\mikroC PRO for PIC\uses\P18'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Davide\Dropbox\Skyward\Recovery\Firmware'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Davide\Desktop\Skyward\Recovery\Firmware'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Programmi\Mikroelektronika\mikroC PRO for PIC\defs'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Programmi\Mikroelektronika\mikroC PRO for PIC\uses\P18'	 
+warning: 0	1501	Specified search path does not exist: 'Z:\daviderossi sul mio Mac\Dropbox\Skyward\Recovery\Firmware'	 
+warning: 0	1501	Specified search path does not exist: 'Z:\daviderossi sul mio Mac\Dropbox\Skyward\Firmware'	 
+hint: 0	1139	Available RAM: 235 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	Recovery_PWM.c
+diagnostics: 333	123	Compiled Successfully	Recovery_PWM.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 13 (6%)  Free RAM (bytes): 222 (94%)	Used RAM (bytes): 13 (6%)  Free RAM (bytes): 222 (94%)
+hint: 0	1144	Used ROM (bytes): 572 (7%)  Free ROM (bytes): 7620 (93%)	Used ROM (bytes): 572 (7%)  Free ROM (bytes): 7620 (93%)
+diagnostics: 0	125	Project Linked Successfully	Recovery_PWM.mcppi
+diagnostics: 0	128	Linked in 202 ms	 
+diagnostics: 0	129	Project 'Recovery_PWM.mcppi' completed: 483 ms	 
+diagnostics: 0	103	Finished successfully: 07 giu 2014, 00:37:09	Recovery_PWM.mcppi

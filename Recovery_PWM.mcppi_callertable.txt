@@ -1,0 +1,9 @@
+main
+	__CC2DW
+	init
+		initServo
+			setServo
+	setServo
+	initServo
+		setServo
+interrupt
